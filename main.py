@@ -1,3 +1,4 @@
+# this game can help children learn different animal names and how they look like and can be used for education in schools
 import tkinter as tk
 from tkinter import messagebox
 from PIL import Image, ImageTk
